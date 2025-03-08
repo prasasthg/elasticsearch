@@ -3,3 +3,4 @@ langchain_core==0.3.43
 nltk==3.9.1
 streamlit==1.42.2
 unstructured==0.16.25
+python-docx
