@@ -5,3 +5,4 @@ streamlit==1.42.2
 unstructured==0.16.25
 python-docx
 pdfminer.six
+pi-heif
